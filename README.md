@@ -13,4 +13,7 @@ ABOUT THE DATASET:-
 
 The Sakila Movie Database is a fictional database that represents the business process of a DVD rental store. 
 
-The sample database contains 15 tables .
+The sample database contains 15 tables.
+
+![0001](https://user-images.githubusercontent.com/70141707/128670477-5d763b10-accc-4f6e-8bea-0a5cdd6625ce.jpg)
+
