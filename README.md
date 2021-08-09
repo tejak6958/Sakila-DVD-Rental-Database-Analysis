@@ -20,3 +20,7 @@ The sample database contains 15 tables.
 
 ![0001](https://user-images.githubusercontent.com/70141707/128670477-5d763b10-accc-4f6e-8bea-0a5cdd6625ce.jpg)
 
+![Screenshot (40)](https://user-images.githubusercontent.com/70141707/128670958-7a88676d-9161-490c-a655-b357a3f98c6e.png)
+
+
+
